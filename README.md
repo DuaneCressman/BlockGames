@@ -2,6 +2,8 @@
 <b>Author:</b> Duane Cressman</br>
 <b>Language:</b> C#, Unity3D</br></br>
 
+This project was one of my first Unity project. In the past year and a half I have gained more experiance in both Unity and C#. My current abilities are are much stronger than what is shown in this project. 
+
 The executable to lauch game can be found in CubeSnake/builds.
 
   <b>Cube Snake</b></br>
